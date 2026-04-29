@@ -1,16 +1,16 @@
 <div align="center">
   <h2> Hi there! I'm Juhun Kim 👋 </h2>
-  <h3> 🎮 Game Client Programmer | System Architecture & AI Enthusiast </h3>
+  <h3> 🎮 Game Client Programmer | Gameplay & System Optimization </h3>
   <p> Based in Busan, South Korea 🇰🇷 </p>
 </div>
 
 <br>
 
 ### 🚀 About Me
-I focus on gameplay programming and system optimization. Rather than just making things work, I dive into low-level concepts and memory management to build robust, reliable systems.
+My main focus lies in gameplay programming and system optimization. Rather than just making things work, I enjoy diving into low-level concepts and memory management to build robust, reliable systems—whether it's generating random dungeons or designing complex AI logic.
 
-- 🧠 **Interests:** Complex AI logic (FSM), Procedural Content Generation (PCG), and System Optimization.
-- 💻 **Focus:** Writing clean, maintainable code with a deep understanding of C++ and C# fundamentals.
+- 🧠 **Interests:** Complex AI logic (FSM), Procedural Content Generation (PCG), and Performance Optimization.
+- 💻 **Focus:** Low-level concepts, memory management, and deeply understanding C++/C# fundamentals.
 
 <br>
 

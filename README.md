@@ -17,6 +17,15 @@ My main focus lies in gameplay programming and system optimization. Rather than 
 ### 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=keios1&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats" />
 
+### 🏆 Featured Projects
+
+| Preview | Description |
+| :---: | :--- |
+| <a href="[여기에_저장소_링크_입력]"><img src="https://via.placeholder.com/350x200.png?text=Project+1+Image+or+GIF" width="350" alt="Project 1 Preview"/></a> | **[[프로젝트 이름 1]]([여기에_저장소_링크_입력])** <br> *[간단한 분류: 예) G-STAR Exhibition Project / Graduation Project]* <br><br> [프로젝트가 어떤 게임인지, 어떤 시스템이 핵심인지 1~2줄로 설명해 주세요.] <br> 🔹 **[핵심 구현 1]:** [예: FSM 기반의 적 AI 시스템 구축] <br> 🔹 **[핵심 구현 2]:** [예: 메모리 풀링을 활용한 성능 최적화] <br><br> ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) |
+| <a href="[여기에_저장소_링크_입력]"><img src="https://via.placeholder.com/350x200.png?text=Project+2+Image+or+GIF" width="350" alt="Project 2 Preview"/></a> | **[[프로젝트 이름 2]]([여기에_저장소_링크_입력])** <br> *[간단한 분류]* <br><br> [프로젝트 설명 작성] <br> 🔹 **[핵심 구현 1]:** [PCG 기반 무작위 맵 자동 생성 로직 설계 등] <br> 🔹 **[핵심 구현 2]:** [설명 작성] <br><br> ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) |
+| <a href="[여기에_저장소_링크_입력]"><img src="https://via.placeholder.com/350x200.png?text=Project+3+Image+or+GIF" width="350" alt="Project 3 Preview"/></a> | **[[프로젝트 이름 3]]([여기에_저장소_링크_입력])** <br> *[간단한 분류]* <br><br> [프로젝트 설명 작성] <br> 🔹 **[핵심 구현 1]:** [설명 작성] <br> 🔹 **[핵심 구현 2]:** [설명 작성] <br><br> ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+
+
 <br>
 
 ### 🛠️ Tech Stack
